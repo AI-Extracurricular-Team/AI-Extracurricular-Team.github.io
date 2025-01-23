@@ -1,5 +1,4 @@
 ---
-layout: post
 name: Test Challage
 level: hard
 description: Sample
