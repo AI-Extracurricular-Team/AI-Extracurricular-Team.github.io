@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Weekly Challages
+title: Weekly Challanges
 ---
 
-{% for challage in site.challages %}
+{% for challage in site.challanges %}
   <h3>{{ challage.name }}</h3>
   {% if challage.level == "hard" %}
     <span style="color:#dc3545">Level: Hard</span>
